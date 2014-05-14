@@ -1,0 +1,13 @@
+{
+	"private": true,
+	"name": "informi-arcgis-demo",
+	"description": "Informi ArcGIS demo",
+	"version": "0.1.0",
+	"license": "mit",
+	"scripts": {
+		"start": "node server"
+	},
+	"dependencies": {
+		"express": "^3.4.8"
+	}
+}
