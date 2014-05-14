@@ -1,0 +1,8021 @@
+{
+    "displayFieldName": "Temanavn",
+    "fieldAliases": {
+        "Temanavn": "Temanavn"
+    },
+    "geometryType": "esriGeometryPoint",
+    "spatialReference": {
+        "wkid": 25832,
+        "latestWkid": 25832,
+        "vcsWkid": 105701,
+        "latestVcsWkid": 5799
+    },
+    "fields": [{
+        "name": "Temanavn",
+        "type": "esriFieldTypeString",
+        "alias": "Temanavn",
+        "length": 128
+    }],
+    "features": [{
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 570758.84499999974,
+            "y": 6200034.5130000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 570943.53799999971,
+            "y": 6199863.7809999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 514785.50200000033,
+            "y": 6226630.3350000009
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 524091.82799999975,
+            "y": 6223156.7819999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 524090.12999999989,
+            "y": 6223320.2630000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 524078.29200000037,
+            "y": 6223131.0759999994
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 524091.21100000013,
+            "y": 6223150
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 524090.30200000014,
+            "y": 6223147.8200000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 524036.10099999979,
+            "y": 6223299.2459999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 524091.66500000004,
+            "y": 6223299.0089999996
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 597510,
+            "y": 6237810
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 597540,
+            "y": 6237670
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 598330,
+            "y": 6238680
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 597300,
+            "y": 6238780
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 597500,
+            "y": 6237440
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 597800,
+            "y": 6238020
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 598350,
+            "y": 6237330
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 597800,
+            "y": 6237040
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 597990,
+            "y": 6237460
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 598480,
+            "y": 6237950
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 598520,
+            "y": 6237620
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 598820,
+            "y": 6238730
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 597520,
+            "y": 6238700
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 597640,
+            "y": 6237080
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 598180,
+            "y": 6237080
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 598650,
+            "y": 6237660
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 598690,
+            "y": 6237520
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 598600,
+            "y": 6238700
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 598710,
+            "y": 6238240
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 597460,
+            "y": 6238580
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 597320,
+            "y": 6238710
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 597210,
+            "y": 6237090
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 597580,
+            "y": 6238280
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 597550,
+            "y": 6236970
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 597940,
+            "y": 6237820
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 597380,
+            "y": 6236860
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 598823.92300000042,
+            "y": 6237301.4949999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 597430,
+            "y": 6237640.0179999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 597332.16199999955,
+            "y": 6236879.8719999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 598210.08800000045,
+            "y": 6237430.9269999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 535520,
+            "y": 6200110
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 535540,
+            "y": 6201390
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 535750,
+            "y": 6200160
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 536350,
+            "y": 6200590
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 536470,
+            "y": 6200520
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 536690,
+            "y": 6200040
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 534960,
+            "y": 6200120
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 535030,
+            "y": 6199930
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 535030,
+            "y": 6199960
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 535040,
+            "y": 6199820
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 535040,
+            "y": 6199870
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 535160,
+            "y": 6200520
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 535710,
+            "y": 6201000
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 535830,
+            "y": 6201470
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 536490,
+            "y": 6201070
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 536610,
+            "y": 6201780
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 534960,
+            "y": 6201250
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 534970,
+            "y": 6201460
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 535260,
+            "y": 6200650
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 535290,
+            "y": 6201370
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 536100,
+            "y": 6200260
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 536140,
+            "y": 6200230
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 536160,
+            "y": 6200180
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 536180,
+            "y": 6200190
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 536190,
+            "y": 6200170
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 546900,
+            "y": 6180850
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 546110,
+            "y": 6180850
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 546400,
+            "y": 6181020
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 547030,
+            "y": 6180180
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 547520,
+            "y": 6180030
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 546580,
+            "y": 6181740
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 547000,
+            "y": 6180470
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 547700,
+            "y": 6180840
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 546770,
+            "y": 6179830
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 547380,
+            "y": 6181420
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 547800,
+            "y": 6181610
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 545950,
+            "y": 6181210
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 546250,
+            "y": 6181090
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 546760,
+            "y": 6181400
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 547140,
+            "y": 6180710
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 547260,
+            "y": 6181680
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 551910,
+            "y": 6245000
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 550400,
+            "y": 6245700
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 550070,
+            "y": 6246150
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 550270,
+            "y": 6245920
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 549940,
+            "y": 6246030
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 549960,
+            "y": 6246020
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 549960,
+            "y": 6246040
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 549970,
+            "y": 6245780
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 549980,
+            "y": 6245780
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 549980,
+            "y": 6245790
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 549980,
+            "y": 6245800
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 549940,
+            "y": 6246020
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 550190,
+            "y": 6245130
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 550770,
+            "y": 6246040
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 551020,
+            "y": 6245170
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 551430,
+            "y": 6246570
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 551700,
+            "y": 6246730
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 702500.00100000016,
+            "y": 6165730.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 702889.99700000044,
+            "y": 6165750
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 702720,
+            "y": 6164810.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 702479.99700000044,
+            "y": 6164660.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 701840.00399999972,
+            "y": 6164049.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 701940.00100000016,
+            "y": 6164070.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 701450,
+            "y": 6164929.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 702899.99899999984,
+            "y": 6164729.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 701549.99700000044,
+            "y": 6164460.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 702800.00200000033,
+            "y": 6164070.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 702819.99799999967,
+            "y": 6163999.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 702849.99600000028,
+            "y": 6165690.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 702840.00200000033,
+            "y": 6165780.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 702489.99899999984,
+            "y": 6164769.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 702550.00399999972,
+            "y": 6164810.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 702850.00399999972,
+            "y": 6165650
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 701959.99700000044,
+            "y": 6165269.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 711919.99600000028,
+            "y": 6192149.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 712639.99799999967,
+            "y": 6191849.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 711219.99799999967,
+            "y": 6193630.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 711950.00299999956,
+            "y": 6193780.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 711359.99600000028,
+            "y": 6193440.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 711720.00100000016,
+            "y": 6193200.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 712470.00200000033,
+            "y": 6192800.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 712590.00399999972,
+            "y": 6192629.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 711449.99899999984,
+            "y": 6192339.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 712109.99700000044,
+            "y": 6192360.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 711340,
+            "y": 6193519.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 711350.00200000033,
+            "y": 6193369.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 712369.99600000028,
+            "y": 6193519.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 712500,
+            "y": 6193379.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 712079.99799999967,
+            "y": 6192660.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 712629.99600000028,
+            "y": 6193100.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 711479.99799999967,
+            "y": 6192379.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 712400.00299999956,
+            "y": 6193709.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 712140.00299999956,
+            "y": 6193250.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 711380,
+            "y": 6192919.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 711109.99799999967,
+            "y": 6192839.9949999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 712519.99700000044,
+            "y": 6191999.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 712610,
+            "y": 6193650.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 711889.99799999967,
+            "y": 6192270.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 711819.99899999984,
+            "y": 6192299.9949999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 711409.99899999984,
+            "y": 6191920.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 711990.00299999956,
+            "y": 6193179.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 712590.00399999972,
+            "y": 6193169.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 711620.00399999972,
+            "y": 6191970.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 711880.00399999972,
+            "y": 6192889.9949999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 712160,
+            "y": 6193490.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 712109.99700000044,
+            "y": 6192770
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 712910,
+            "y": 6193640.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 712829.99899999984,
+            "y": 6193709.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 676560.00200000033,
+            "y": 6161180
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 677870.00200000033,
+            "y": 6162069.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 676180,
+            "y": 6162269.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 677820,
+            "y": 6161239.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 677729.99600000028,
+            "y": 6161370.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 676330,
+            "y": 6161629.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 677910.00299999956,
+            "y": 6161329.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 676239.99700000044,
+            "y": 6161979.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 677359.99700000044,
+            "y": 6162440.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 677889.99899999984,
+            "y": 6161489.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 676139.99899999984,
+            "y": 6160920.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 677270.00200000033,
+            "y": 6161260.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 676209.99799999967,
+            "y": 6162500.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 677130.00399999972,
+            "y": 6161739.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 677280.00399999972,
+            "y": 6161010.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 677019.99600000028,
+            "y": 6161310.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 676850,
+            "y": 6161020.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 677410,
+            "y": 6162210
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 676249.99899999984,
+            "y": 6161420.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 676890,
+            "y": 6162709.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 677779.99899999984,
+            "y": 6161049.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 675920,
+            "y": 6162160
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 676720.00399999972,
+            "y": 6161180
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 677849.99799999967,
+            "y": 6162169.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 677169.99600000028,
+            "y": 6160949.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 677080.00100000016,
+            "y": 6161039.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 677760.00299999956,
+            "y": 6160870.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 677900.00100000016,
+            "y": 6161660.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 677779.99899999984,
+            "y": 6161720
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 651279.99899999984,
+            "y": 6162930.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 652049.99600000028,
+            "y": 6162800
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 652909.99700000044,
+            "y": 6163040.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 652399.99899999984,
+            "y": 6162469.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 651569.99700000044,
+            "y": 6162709.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 651000.00299999956,
+            "y": 6163230.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 651079.99600000028,
+            "y": 6163220.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 651839.99899999984,
+            "y": 6163780.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 651689.99899999984,
+            "y": 6163730.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 652359.99899999984,
+            "y": 6162540.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 652900.00299999956,
+            "y": 6163240
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 651489.99600000028,
+            "y": 6163670.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 652869.99600000028,
+            "y": 6162980.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 651580,
+            "y": 6162160
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 652890,
+            "y": 6161990.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 651360.00100000016,
+            "y": 6162630.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 651499.99799999967,
+            "y": 6162319.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 651920.00100000016,
+            "y": 6161910.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 652600.00200000033,
+            "y": 6162190.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 652720.00399999972,
+            "y": 6162219.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 652890,
+            "y": 6162100.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 651719.99799999967,
+            "y": 6162479.9949999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 652099.99899999984,
+            "y": 6161889.9949999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 652160.00399999972,
+            "y": 6162429.9949999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 652000.00200000033,
+            "y": 6162169.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 651480.00200000033,
+            "y": 6163570.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 682310.00200000033,
+            "y": 6171849.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 682270.00100000016,
+            "y": 6171859.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 682350.00299999956,
+            "y": 6171809.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 682430.00399999972,
+            "y": 6171959.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 683299.99799999967,
+            "y": 6171880.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 683910.00100000016,
+            "y": 6172520.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 682439.99799999967,
+            "y": 6172449.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 681989.99700000044,
+            "y": 6172860.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 682669.99899999984,
+            "y": 6172960.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 682779.99899999984,
+            "y": 6173020
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 682849.99799999967,
+            "y": 6173690.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 683210.00299999956,
+            "y": 6173050.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 682399.99700000044,
+            "y": 6171859.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 681940.00299999956,
+            "y": 6172410.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 682350.00299999956,
+            "y": 6172260.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 682219.99899999984,
+            "y": 6171980.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 682139.99700000044,
+            "y": 6173340.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 682190,
+            "y": 6172070.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 682059.99600000028,
+            "y": 6172720.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 681980.00299999956,
+            "y": 6172779.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 682209.99600000028,
+            "y": 6171809.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 682450,
+            "y": 6171809.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 682289.99799999967,
+            "y": 6173740.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 683709.99799999967,
+            "y": 6173210.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 682249.99700000044,
+            "y": 6172979.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 683870,
+            "y": 6172260.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 683100.00299999956,
+            "y": 6171920.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 682010.00200000033,
+            "y": 6172720.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 682580.00399999972,
+            "y": 6173619.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 682540.00299999956,
+            "y": 6172270.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 883870.05099999998,
+            "y": 6128469.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 883480.04700000025,
+            "y": 6128269.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 883500.05099999998,
+            "y": 6128319.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 883320.05300000031,
+            "y": 6129019.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 882620.04700000025,
+            "y": 6127499.9949999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 883640.04899999965,
+            "y": 6128240.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 882630.04899999965,
+            "y": 6128319.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 882540.04499999993,
+            "y": 6127870
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 883940.04999999981,
+            "y": 6128830.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 883960.04600000009,
+            "y": 6128840.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 883920.04499999993,
+            "y": 6128850
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 883930.04700000025,
+            "y": 6128809.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 882920.04700000025,
+            "y": 6129069.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 883960.04600000009,
+            "y": 6128730.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 882620.04700000025,
+            "y": 6127560.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 883070.04700000025,
+            "y": 6129080.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 883410.04800000042,
+            "y": 6128969.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 882960.04700000025,
+            "y": 6127539.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 883230.04899999965,
+            "y": 6128450.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 882960.04700000025,
+            "y": 6128850
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 883190.04899999965,
+            "y": 6128419.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 883180.04700000025,
+            "y": 6128200.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 883570.04999999981,
+            "y": 6128240.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 882130.04600000009,
+            "y": 6127339.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 882140.04800000042,
+            "y": 6127339.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 882650.04499999993,
+            "y": 6127770
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 883620.04499999993,
+            "y": 6128479.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 883180.04700000025,
+            "y": 6129000
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 883420.04999999981,
+            "y": 6127879.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 883260.04800000042,
+            "y": 6127870
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 883890.04700000025,
+            "y": 6127739.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 882380.05099999998,
+            "y": 6127970
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 883460.05099999998,
+            "y": 6128190.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 883480.04700000025,
+            "y": 6129180.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 869490.04000000004,
+            "y": 6128060.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 869480.03799999971,
+            "y": 6128140.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 869410.03899999987,
+            "y": 6126259.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 870100.03500000015,
+            "y": 6127250.0059999991
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 869450.04000000004,
+            "y": 6126939.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 870310.04000000004,
+            "y": 6127620.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 870100.03500000015,
+            "y": 6127810.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 870120.03899999987,
+            "y": 6127850.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 870120.03899999987,
+            "y": 6127660.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 870090.0410000002,
+            "y": 6128200.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 869660.03699999955,
+            "y": 6128160.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 869710.04000000004,
+            "y": 6126180.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 869410.03899999987,
+            "y": 6126299.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 869400.03699999955,
+            "y": 6126280.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 869800.03500000015,
+            "y": 6127550.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 869850.03699999955,
+            "y": 6128150.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 869910.03399999999,
+            "y": 6127439.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 870300.03799999971,
+            "y": 6126570.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 518199.99700000044,
+            "y": 6303369.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 518609.99700000044,
+            "y": 6303519.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 519790.00200000033,
+            "y": 6304780
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 518070.00100000016,
+            "y": 6303110
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 518619.99899999984,
+            "y": 6303459.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 518949.99700000044,
+            "y": 6303340.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 519029.99899999984,
+            "y": 6303500.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 519520,
+            "y": 6304789.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 518089.99700000044,
+            "y": 6303790.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 518190.00299999956,
+            "y": 6303200.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 518290,
+            "y": 6303880.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 518729.99799999967,
+            "y": 6303559.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 519040.00100000016,
+            "y": 6303530.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 519000,
+            "y": 6303350.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 519040.00100000016,
+            "y": 6304290
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 519169.99700000044,
+            "y": 6303290.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 479939.99700000044,
+            "y": 6299629.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 479949.99899999984,
+            "y": 6299629.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 480120.00299999956,
+            "y": 6299160.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 480310.00399999972,
+            "y": 6300410
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481200.00299999956,
+            "y": 6299479.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481209.99700000044,
+            "y": 6300790.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481519.99899999984,
+            "y": 6300469.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 479649.99799999967,
+            "y": 6300140.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 480070,
+            "y": 6299260.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 480459.99600000028,
+            "y": 6300490.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 480499.99700000044,
+            "y": 6299779.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481430.00399999972,
+            "y": 6300479.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 480649.99700000044,
+            "y": 6300240.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481040,
+            "y": 6300119.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481090.00299999956,
+            "y": 6299399.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481560,
+            "y": 6299950.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 479620,
+            "y": 6299130
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 479670.00299999956,
+            "y": 6299089.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 479780.00200000033,
+            "y": 6299080.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 479850.00100000016,
+            "y": 6300319.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 479860.00399999972,
+            "y": 6299579.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 479939.99700000044,
+            "y": 6299070.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 480010.00399999972,
+            "y": 6299660.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 480070,
+            "y": 6299670.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 480089.99700000044,
+            "y": 6299639.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 480530.00299999956,
+            "y": 6299920
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 480630.00100000016,
+            "y": 6299289.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481369.99899999984,
+            "y": 6299460.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481439.99799999967,
+            "y": 6300460
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481439.99799999967,
+            "y": 6299330
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481479.99899999984,
+            "y": 6299570.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 479890.00200000033,
+            "y": 6300069.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 479909.99799999967,
+            "y": 6299610.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 479920,
+            "y": 6299620.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 546239.99799999967,
+            "y": 6281180.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 546529.99700000044,
+            "y": 6281280.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 547410.00100000016,
+            "y": 6280250.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 546279.99899999984,
+            "y": 6281130.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 546970.00299999956,
+            "y": 6280100.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 546979.99700000044,
+            "y": 6280089.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 546979.99700000044,
+            "y": 6280100.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 547909.99600000028,
+            "y": 6281609.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 547900.00200000033,
+            "y": 6281590.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 547900.00200000033,
+            "y": 6281599.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 547900.00200000033,
+            "y": 6281609.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 547909.99600000028,
+            "y": 6281590.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 547909.99600000028,
+            "y": 6281630.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 545929.99600000028,
+            "y": 6281290.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 546070.00200000033,
+            "y": 6281140.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 546949.99899999984,
+            "y": 6280560
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 546960.00100000016,
+            "y": 6280110.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 547909.99600000028,
+            "y": 6280629.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 547480,
+            "y": 6280750.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 546070.00200000033,
+            "y": 6281749.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 547659.99899999984,
+            "y": 6281780.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 547839.99700000044,
+            "y": 6280879.9949999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 547249.99899999984,
+            "y": 6281100
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 547879.99799999967,
+            "y": 6280610
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 547850,
+            "y": 6279860.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 546379.99600000028,
+            "y": 6281040.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 546279.99899999984,
+            "y": 6280590.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 547520.00100000016,
+            "y": 6281259.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 546890.00200000033,
+            "y": 6280579.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 546700.00100000016,
+            "y": 6280550.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 547160.00399999972,
+            "y": 6280479.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 560269.99700000044,
+            "y": 6379959.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 560749.99600000028,
+            "y": 6378199.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 560850.00200000033,
+            "y": 6378479.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 560320,
+            "y": 6378979.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 560379.99700000044,
+            "y": 6379300.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 560459.99799999967,
+            "y": 6378270.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 560560.00399999972,
+            "y": 6379540.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 560829.99700000044,
+            "y": 6379559.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 560850.00200000033,
+            "y": 6379310
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 561030,
+            "y": 6379850
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 561670.00200000033,
+            "y": 6379730.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 559789.99899999984,
+            "y": 6379690.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 559829.99899999984,
+            "y": 6379640.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 559840.00100000016,
+            "y": 6378579.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 559960.00299999956,
+            "y": 6378289.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 560880,
+            "y": 6379000.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 561110.00200000033,
+            "y": 6378710.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 561169.99799999967,
+            "y": 6379980.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 561429.99799999967,
+            "y": 6379360
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 561670.00200000033,
+            "y": 6378039.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 561740.00100000016,
+            "y": 6378220.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 561680.00399999972,
+            "y": 6379429.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 561330.00100000016,
+            "y": 6379850
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 561380.00299999956,
+            "y": 6379790.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 560210.00100000016,
+            "y": 6378220.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 560180.00200000033,
+            "y": 6378510.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 670599.99600000028,
+            "y": 6139260.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 670599.99600000028,
+            "y": 6138810.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 670759.99799999967,
+            "y": 6139070
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 670159.99799999967,
+            "y": 6139050.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 670100.00100000016,
+            "y": 6139629.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 670229.99700000044,
+            "y": 6139139.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 669369.99600000028,
+            "y": 6139550.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 669979.99899999984,
+            "y": 6139250.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 670330.00200000033,
+            "y": 6138639.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 670890.00200000033,
+            "y": 6138480
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 670909.99899999984,
+            "y": 6138099.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 668959.99700000044,
+            "y": 6138270.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 670810.00100000016,
+            "y": 6139050.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 670789.99700000044,
+            "y": 6138049.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 670510.00100000016,
+            "y": 6138680
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 670400.00100000016,
+            "y": 6139260.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 668980.00100000016,
+            "y": 6139510.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 668929.99799999967,
+            "y": 6137949.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 669149.99700000044,
+            "y": 6138710.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 668929.99799999967,
+            "y": 6138020.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 668969.99899999984,
+            "y": 6138030.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 668929.99799999967,
+            "y": 6138040
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 669259.99700000044,
+            "y": 6138370.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 670620,
+            "y": 6139300.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 670639.99700000044,
+            "y": 6139479.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 670389.99899999984,
+            "y": 6138360.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 670649.99899999984,
+            "y": 6139490.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 670899.99600000028,
+            "y": 6137959.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 688519.99700000044,
+            "y": 6062330
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 688179.99600000028,
+            "y": 6061549.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 689869.99799999967,
+            "y": 6061400
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 689379.99700000044,
+            "y": 6060860
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 689110.00299999956,
+            "y": 6061609.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 688639.99899999984,
+            "y": 6061590.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 688060.00200000033,
+            "y": 6062489.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 688470.00200000033,
+            "y": 6062320.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 688489.99799999967,
+            "y": 6062380
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 688920.00299999956,
+            "y": 6061019.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 688789.99899999984,
+            "y": 6062280.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 688650.00100000016,
+            "y": 6061699.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 689049.99799999967,
+            "y": 6061670.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 689220.00299999956,
+            "y": 6062700.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 689660.00100000016,
+            "y": 6061419.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 688090.00100000016,
+            "y": 6061130.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 688489.99799999967,
+            "y": 6062530
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 646690,
+            "y": 6070309.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 647000.00200000033,
+            "y": 6069429.9949999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 646089.99899999984,
+            "y": 6069150.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 646560.00399999972,
+            "y": 6069850
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 646349.99899999984,
+            "y": 6069429.9949999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 646529.99700000044,
+            "y": 6069690.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 647040.00299999956,
+            "y": 6070340
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 646119.99700000044,
+            "y": 6069419.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 646199.99899999984,
+            "y": 6069830.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 647019.99799999967,
+            "y": 6070040.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 647509.99899999984,
+            "y": 6070470.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 646550.00200000033,
+            "y": 6068850.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 647199.99700000044,
+            "y": 6069210
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 646890.00299999956,
+            "y": 6068960.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 646510.00100000016,
+            "y": 6068829.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 647400,
+            "y": 6070249.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 647270.00399999972,
+            "y": 6070149.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 468460,
+            "y": 6154970.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 468430.00200000033,
+            "y": 6154730.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 469670.00399999972,
+            "y": 6154309.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 469339.99700000044,
+            "y": 6154100.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 469079.99700000044,
+            "y": 6154130.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 469679.99799999967,
+            "y": 6154920.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 469540,
+            "y": 6155360.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 469590.00200000033,
+            "y": 6155349.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 469520.00299999956,
+            "y": 6155099.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 468170.00200000033,
+            "y": 6154540.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 468610,
+            "y": 6154580.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 469799.99899999984,
+            "y": 6154380.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 469410.00399999972,
+            "y": 6154000.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 469719.99799999967,
+            "y": 6154909.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 467969.99899999984,
+            "y": 6153919.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 469449.99600000028,
+            "y": 6154830.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 468730.00200000033,
+            "y": 6154959.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 480000.00200000033,
+            "y": 6133329.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481519.99899999984,
+            "y": 6132899.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481280.00399999972,
+            "y": 6132799.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481530.00100000016,
+            "y": 6132920.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481750.00100000016,
+            "y": 6134110
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481870.00200000033,
+            "y": 6133170.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481530.00100000016,
+            "y": 6132860.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 479979.99700000044,
+            "y": 6133060.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 479989.99899999984,
+            "y": 6133279.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481690.00399999972,
+            "y": 6133589.9949999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 480799.99700000044,
+            "y": 6134469.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 480820.00100000016,
+            "y": 6134369.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 479930.00299999956,
+            "y": 6133300.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 479949.99899999984,
+            "y": 6132899.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 479960.00100000016,
+            "y": 6133020.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481530.00100000016,
+            "y": 6132880
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 480579.99799999967,
+            "y": 6132820.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481710,
+            "y": 6133229.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 480139.99899999984,
+            "y": 6133669.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 480380.00299999956,
+            "y": 6133760.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 480790.00299999956,
+            "y": 6134229.9949999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481729.99600000028,
+            "y": 6134209.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481249.99700000044,
+            "y": 6134060
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481289.99799999967,
+            "y": 6133910
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481750.00100000016,
+            "y": 6134079.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 480759.99600000028,
+            "y": 6133740.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481300,
+            "y": 6133350.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481750.00100000016,
+            "y": 6132930
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481889.99799999967,
+            "y": 6134790.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481889.99799999967,
+            "y": 6134730.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481870.00200000033,
+            "y": 6134650
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481720.00200000033,
+            "y": 6134690.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481629.99899999984,
+            "y": 6134709.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 480150.00200000033,
+            "y": 6133850.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 460269.99700000044,
+            "y": 6176240.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 460429.99899999984,
+            "y": 6175710.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 461180,
+            "y": 6175500.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 460700.00100000016,
+            "y": 6176290.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 460300.00299999956,
+            "y": 6176229.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 460199.99799999967,
+            "y": 6176200.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 460529.99600000028,
+            "y": 6175230
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 460920,
+            "y": 6175820
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 461450.00200000033,
+            "y": 6175370.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 461849.99899999984,
+            "y": 6176650.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 461089.99600000028,
+            "y": 6174899.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 461420.00299999956,
+            "y": 6174949.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 461220,
+            "y": 6174920.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 459930.00399999972,
+            "y": 6174939.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 460499.99799999967,
+            "y": 6175910.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 461030,
+            "y": 6176060.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 461820.00100000016,
+            "y": 6174799.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 493950.00600000005,
+            "y": 6243230.034
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 494229.98699999973,
+            "y": 6243060.0189999994
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 494349.97599999979,
+            "y": 6243179.9550000001
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 494599.97900000028,
+            "y": 6243150.023
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 495229.97200000007,
+            "y": 6244199.9759999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 495280.01699999999,
+            "y": 6244010.0360000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 495219.97400000039,
+            "y": 6244160.0289999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 495329.98400000017,
+            "y": 6243970.023
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 495229.98300000001,
+            "y": 6244209.9930000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 495180.01900000032,
+            "y": 6244140.0399999991
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 495309.97200000007,
+            "y": 6243929.9759999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 495270.03100000042,
+            "y": 6243979.9949999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 495299.98000000045,
+            "y": 6244229.9499999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 495260,
+            "y": 6243909.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 495090,
+            "y": 6244770.0099999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 494530.01499999966,
+            "y": 6242980.0409999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 495299.97300000023,
+            "y": 6243999.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 494509.97400000039,
+            "y": 6243309.9700000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 494520.01900000032,
+            "y": 6242900.0270000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 495280.0120000001,
+            "y": 6244729.9480000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 484429.96800000034,
+            "y": 6213639.9780000001
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 484849.99000000022,
+            "y": 6213310.0319999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 484609.98500000034,
+            "y": 6213559.9729999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 484559.97300000023,
+            "y": 6213589.9810000006
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 484599.97800000012,
+            "y": 6213529.9580000006
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 484849.98199999984,
+            "y": 6213289.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 484670.01300000027,
+            "y": 6213510.0079999994
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 484860.02300000004,
+            "y": 6213330.0309999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 485889.99500000011,
+            "y": 6212989.9580000006
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 485089.99199999962,
+            "y": 6212620.0280000009
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 484679.98400000017,
+            "y": 6213600.0130000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 484490.00600000005,
+            "y": 6213680.0510000009
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 484820.03100000042,
+            "y": 6213360
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 485030.03000000026,
+            "y": 6212640.0470000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 484800.00200000033,
+            "y": 6213260.0130000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 484920.00700000022,
+            "y": 6213390.0329999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 485790.03399999999,
+            "y": 6212720.0529999994
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 484710.01599999983,
+            "y": 6211890.0140000004
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 484620.00700000022,
+            "y": 6212479.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 485269.98900000006,
+            "y": 6213099.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 485730.00399999972,
+            "y": 6212270.0460000001
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 485160.01699999999,
+            "y": 6213259.9790000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 485680.01599999983,
+            "y": 6212950.0280000009
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 485430.00399999972,
+            "y": 6212489.9780000001
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 485569.99100000039,
+            "y": 6212839.9869999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 485530.00299999956,
+            "y": 6212800.0539999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 485319.99700000044,
+            "y": 6212500.0350000001
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 485369.96999999974,
+            "y": 6212489.9590000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 484280.0120000001,
+            "y": 6213459.9949999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 484390.00200000033,
+            "y": 6212080.0380000006
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 484839.99899999984,
+            "y": 6213090.0289999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 577380.00100000016,
+            "y": 6160099.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 577519.99899999984,
+            "y": 6159990.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 576919.99799999967,
+            "y": 6160190.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 577099.99600000028,
+            "y": 6160009.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 577099.99600000028,
+            "y": 6160599.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 577080,
+            "y": 6160219.9949999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 577170.00399999972,
+            "y": 6160399.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 577519.99899999984,
+            "y": 6160480.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 577589.99799999967,
+            "y": 6160449.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 577530.00100000016,
+            "y": 6159969.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 576999.99899999984,
+            "y": 6160050
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 577120.00100000016,
+            "y": 6159990.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 577149.99899999984,
+            "y": 6160490
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 577130.00299999956,
+            "y": 6160349.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 577669.99899999984,
+            "y": 6160459.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 577430.00299999956,
+            "y": 6160570.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 577310.00200000033,
+            "y": 6160470.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 595029.99899999984,
+            "y": 6125329.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 595139.99899999984,
+            "y": 6125540.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 595160.00299999956,
+            "y": 6125089.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 595909.99600000028,
+            "y": 6125229.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 595180,
+            "y": 6126100
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 595029.99899999984,
+            "y": 6126590
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 596900,
+            "y": 6126480.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 595970.00100000016,
+            "y": 6125369.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 595120.00299999956,
+            "y": 6126530.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 595190.00200000033,
+            "y": 6126030.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 596130.00299999956,
+            "y": 6125219.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 596150,
+            "y": 6125790.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 595480,
+            "y": 6125769.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 596469.99600000028,
+            "y": 6126259.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 575740.00100000016,
+            "y": 6121620.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 574979.99799999967,
+            "y": 6120840.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 575799.99799999967,
+            "y": 6120870.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 576830.00299999956,
+            "y": 6121249.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 576420.00299999956,
+            "y": 6121030.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 575879.99899999984,
+            "y": 6121460.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 575710.00299999956,
+            "y": 6122540.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 575129.99799999967,
+            "y": 6122429.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 575469.99899999984,
+            "y": 6121330.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 575389.99799999967,
+            "y": 6120930.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 575230.00399999972,
+            "y": 6121389.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 576059.99799999967,
+            "y": 6121140
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 576780,
+            "y": 6122579.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 576720.00299999956,
+            "y": 6122310.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 574960.00200000033,
+            "y": 6121289.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 575349.99700000044,
+            "y": 6120949.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 576589.99899999984,
+            "y": 6122079.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 576110,
+            "y": 6121120.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 575000.00299999956,
+            "y": 6120990
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 576799.99600000028,
+            "y": 6121099.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 576469.99700000044,
+            "y": 6122160.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 575839.99799999967,
+            "y": 6121480
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 575700.00100000016,
+            "y": 6120859.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 576530.00200000033,
+            "y": 6122039.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 702650.00100000016,
+            "y": 6165600
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 702430.00200000033,
+            "y": 6164529.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 701790.00100000016,
+            "y": 6164260.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 701230.00100000016,
+            "y": 6165029.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 701150,
+            "y": 6164339.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 701190,
+            "y": 6164510.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 701399.99700000044,
+            "y": 6164529.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 702069.99700000044,
+            "y": 6164220.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 702360.00299999956,
+            "y": 6164669.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 702540.00200000033,
+            "y": 6164360.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 701509.99700000044,
+            "y": 6165190.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 702720,
+            "y": 6164950.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 701809.99700000044,
+            "y": 6164239.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 701860,
+            "y": 6165899.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 701729.99600000028,
+            "y": 6164279.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 702660.00399999972,
+            "y": 6165219.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 701970,
+            "y": 6165369.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 702339.99899999984,
+            "y": 6164940.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 702550.00399999972,
+            "y": 6165060
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 702800.00200000033,
+            "y": 6164919.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 701490.00100000016,
+            "y": 6165229.9949999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 701519.99899999984,
+            "y": 6165110
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 701390.00299999956,
+            "y": 6164220.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 701300,
+            "y": 6164320.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 702680,
+            "y": 6164450.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 702120,
+            "y": 6163960.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 696190.00100000016,
+            "y": 6178179.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 697310.00100000016,
+            "y": 6178769.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 696139.99799999967,
+            "y": 6177810.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 695980.00399999972,
+            "y": 6177920.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 696779.99899999984,
+            "y": 6177710.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 696509.99700000044,
+            "y": 6177860.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 696509.99700000044,
+            "y": 6177899.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 696710,
+            "y": 6177930
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 696629.99899999984,
+            "y": 6177880.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 696050.00299999956,
+            "y": 6177880.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 696090.00299999956,
+            "y": 6177889.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 695900.00299999956,
+            "y": 6178030
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 695900.00299999956,
+            "y": 6178739.9949999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 695919.99899999984,
+            "y": 6178769.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 697530,
+            "y": 6179269.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 697599.99899999984,
+            "y": 6179459.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 697610.00100000016,
+            "y": 6179430.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 696410,
+            "y": 6178639.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 696399.99799999967,
+            "y": 6178600.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 695980.00399999972,
+            "y": 6178020.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 869550.03699999955,
+            "y": 6126180.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 869860.04000000004,
+            "y": 6126399.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 870090.0410000002,
+            "y": 6126910.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 869710.04000000004,
+            "y": 6126570.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 869390.03500000015,
+            "y": 6126330.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 869390.03500000015,
+            "y": 6126309.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 870330.03600000031,
+            "y": 6127520.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 518909.99700000044,
+            "y": 6303530.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 518960,
+            "y": 6303869.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 518989.99799999967,
+            "y": 6303450.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 519019.99600000028,
+            "y": 6304309.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 519129.99600000028,
+            "y": 6304449.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 519139.99799999967,
+            "y": 6304589.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 518659.99899999984,
+            "y": 6302839.9949999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 518750.00299999956,
+            "y": 6303060.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 518790.00299999956,
+            "y": 6302860.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 518869.99600000028,
+            "y": 6303100.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 573289.99600000028,
+            "y": 6337509.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 574130,
+            "y": 6338660.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 574599.99700000044,
+            "y": 6337530.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 574620.00100000016,
+            "y": 6337430.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 572919.99700000044,
+            "y": 6337190.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 573929.99700000044,
+            "y": 6338460.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 573969.99799999967,
+            "y": 6337559.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 574189.99700000044,
+            "y": 6337090.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 574309.99899999984,
+            "y": 6337029.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 573920.00299999956,
+            "y": 6337409.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 574020,
+            "y": 6337690.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 574320.00100000016,
+            "y": 6338349.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 574660.00200000033,
+            "y": 6337940.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 574890.00299999956,
+            "y": 6338280.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 573079.99899999984,
+            "y": 6338589.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 573109.99700000044,
+            "y": 6338020.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 573650.00100000016,
+            "y": 6338780
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 574899.99700000044,
+            "y": 6338610.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 572999.99799999967,
+            "y": 6338649.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 573010,
+            "y": 6338599.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 573109.99700000044,
+            "y": 6338009.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 573160,
+            "y": 6338570.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 573310,
+            "y": 6338530.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 573449.99799999967,
+            "y": 6338670.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 574039.99700000044,
+            "y": 6338780
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 572959.99700000044,
+            "y": 6338720.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 572990.00399999972,
+            "y": 6338589.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 573650.00100000016,
+            "y": 6338760.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 574240,
+            "y": 6338770.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 574349.99899999984,
+            "y": 6336890.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 574470.00100000016,
+            "y": 6338730
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 574599.99700000044,
+            "y": 6338090
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 574690,
+            "y": 6338439.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 574709.99600000028,
+            "y": 6338109.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 705830.00299999956,
+            "y": 6093829.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 705769.99799999967,
+            "y": 6093039.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 706610.00200000033,
+            "y": 6094510
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 706359.99600000028,
+            "y": 6093220.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 706139.99700000044,
+            "y": 6093810.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 706130.00299999956,
+            "y": 6093420.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 706130.00299999956,
+            "y": 6093760.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 707039.99799999967,
+            "y": 6093210.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 706640,
+            "y": 6093339.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 707100.00299999956,
+            "y": 6093239.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 706999.99799999967,
+            "y": 6093120.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 705160.00299999956,
+            "y": 6094200.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 706659.99700000044,
+            "y": 6093389.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 707160,
+            "y": 6093139.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 705289.99899999984,
+            "y": 6093310.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 705870.00399999972,
+            "y": 6092990
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 705699.99899999984,
+            "y": 6093689.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 706860,
+            "y": 6094540.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 706980.00100000016,
+            "y": 6093310.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 706790.00100000016,
+            "y": 6094210.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 706790.00100000016,
+            "y": 6094779.9949999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 706080,
+            "y": 6093330
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 706149.99899999984,
+            "y": 6094450.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 706209.99600000028,
+            "y": 6094859.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 706209.99600000028,
+            "y": 6094890.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 706430.00399999972,
+            "y": 6093160.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 706509.99700000044,
+            "y": 6093879.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 706860,
+            "y": 6093160.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 706950.00299999956,
+            "y": 6093960.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 706940.00100000016,
+            "y": 6093380
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 706450,
+            "y": 6094150.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 706219.99799999967,
+            "y": 6093620.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 706099.99700000044,
+            "y": 6094010.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 705799.99600000028,
+            "y": 6093789.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 689410.00399999972,
+            "y": 6061400
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 688500.00100000016,
+            "y": 6061690.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 688090.00100000016,
+            "y": 6061350
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 688119.99899999984,
+            "y": 6061300
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 688100.00299999956,
+            "y": 6061280.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 688419.99899999984,
+            "y": 6061430.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 688250.00299999956,
+            "y": 6061240.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 688130.00100000016,
+            "y": 6061369.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 688179.99600000028,
+            "y": 6061159.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 688299.99799999967,
+            "y": 6061450
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 688580.00200000033,
+            "y": 6062399.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 688109.99700000044,
+            "y": 6061670.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 689670.00299999956,
+            "y": 6062639.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 689639.99700000044,
+            "y": 6062579.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 688109.99700000044,
+            "y": 6061640.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 688540.00100000016,
+            "y": 6062410.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 689690,
+            "y": 6062589.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 646909.99899999984,
+            "y": 6070549.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 646939.99700000044,
+            "y": 6069969.9949999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 646130,
+            "y": 6070309.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 647440,
+            "y": 6070390
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 647140,
+            "y": 6069250.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 646749.99600000028,
+            "y": 6068950.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 647440,
+            "y": 6069880.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 646639.99700000044,
+            "y": 6069210
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 647380.00399999972,
+            "y": 6070080.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 647220.00100000016,
+            "y": 6069590.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 645950.00100000016,
+            "y": 6069659.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 468130.00100000016,
+            "y": 6155729.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 468519.99700000044,
+            "y": 6154290.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 469660.00100000016,
+            "y": 6154240.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 468650.00100000016,
+            "y": 6155679.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 469569.99799999967,
+            "y": 6154870.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 469039.99600000028,
+            "y": 6153869.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 556040.00299999956,
+            "y": 6086959.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 556410.00200000033,
+            "y": 6086799.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 556520.00200000033,
+            "y": 6086469.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 556590.00100000016,
+            "y": 6086509.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 556860.00299999956,
+            "y": 6085879.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 556949.99799999967,
+            "y": 6085979.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 557689.99600000028,
+            "y": 6086949.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 556359.99899999984,
+            "y": 6087680
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 556100,
+            "y": 6087689.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 557239.99600000028,
+            "y": 6087180.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 557509.99799999967,
+            "y": 6086730.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 556590.00100000016,
+            "y": 6086390.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 557300.00100000016,
+            "y": 6086079.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 555920.00100000016,
+            "y": 6086640.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 556630.00100000016,
+            "y": 6085990.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 557169.99700000044,
+            "y": 6086469.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 557190.00100000016,
+            "y": 6086530.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 557579.99700000044,
+            "y": 6087270.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 556909.99700000044,
+            "y": 6086880.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 556490.00299999956,
+            "y": 6087170.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 557579.99700000044,
+            "y": 6086700
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 557029.99899999984,
+            "y": 6085879.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 556700,
+            "y": 6086559.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 555979.99799999967,
+            "y": 6087409.9949999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 556370.00200000033,
+            "y": 6087180.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 556480.00100000016,
+            "y": 6086559.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 557760.00399999972,
+            "y": 6086259.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 556530.00399999972,
+            "y": 6086079.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 557169.99700000044,
+            "y": 6086519.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 557279.99700000044,
+            "y": 6087560.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 557329.99899999984,
+            "y": 6086890.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 556590.00100000016,
+            "y": 6085800.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 556949.99799999967,
+            "y": 6087570.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 555990,
+            "y": 6087459.9949999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 513269.99600000028,
+            "y": 6085819.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 513080.00299999956,
+            "y": 6085700.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 512220.00299999956,
+            "y": 6085220.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 512290.00200000033,
+            "y": 6085179.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 512009.99799999967,
+            "y": 6085189.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 513049.99700000044,
+            "y": 6085199.9949999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 512590.00200000033,
+            "y": 6085160.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 513539.99799999967,
+            "y": 6086769.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 513619.99899999984,
+            "y": 6086640.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 512440.00200000033,
+            "y": 6086450.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 511950.00100000016,
+            "y": 6085710.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 512030.00200000033,
+            "y": 6085850.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 513049.99700000044,
+            "y": 6085229.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 513649.99700000044,
+            "y": 6086600
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 513539.99799999967,
+            "y": 6086790.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 513309.99700000044,
+            "y": 6085779.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 512039.99600000028,
+            "y": 6085160.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 512470.00100000016,
+            "y": 6085379.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 513309.99700000044,
+            "y": 6085360.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 512869.99799999967,
+            "y": 6084849.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 513660,
+            "y": 6086630.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 513530.00399999972,
+            "y": 6085400.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 512210.00100000016,
+            "y": 6086780.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 512990,
+            "y": 6085990.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 512110.00399999972,
+            "y": 6085979.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 513429.99799999967,
+            "y": 6086769.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 513080.00299999956,
+            "y": 6084880
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 512709.99600000028,
+            "y": 6085279.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 513140,
+            "y": 6084920.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 512899.99700000044,
+            "y": 6084860.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 512089.99899999984,
+            "y": 6085129.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 512909.99899999984,
+            "y": 6084899.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 513100,
+            "y": 6084970.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 511960.00299999956,
+            "y": 6085179.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 522949.99899999984,
+            "y": 6147420
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 522789.99600000028,
+            "y": 6146290
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 522789.99600000028,
+            "y": 6146299.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 522829.99700000044,
+            "y": 6146839.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 522040.00399999972,
+            "y": 6146069.9949999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 522839.99899999984,
+            "y": 6146820.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 522850.00100000016,
+            "y": 6146810.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 522529.99700000044,
+            "y": 6146449.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 522600.00399999972,
+            "y": 6147270.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 522689.99899999984,
+            "y": 6147410.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 523600.00200000033,
+            "y": 6146430.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 522089.99799999967,
+            "y": 6147339.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 522890.00200000033,
+            "y": 6146810.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 522150.00299999956,
+            "y": 6145880.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 523110.00100000016,
+            "y": 6146380.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 522060,
+            "y": 6146820.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 523879.99799999967,
+            "y": 6145980.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 523110.00100000016,
+            "y": 6147679.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 522620,
+            "y": 6146580.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 522030.00200000033,
+            "y": 6146670.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 522770,
+            "y": 6145900
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 523019.99799999967,
+            "y": 6146449.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 523759.99600000028,
+            "y": 6147670
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 523780.00100000016,
+            "y": 6147679.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 523359.99899999984,
+            "y": 6146830.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 523560.00200000033,
+            "y": 6147070.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 480579.99799999967,
+            "y": 6132839.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481350.00299999956,
+            "y": 6133470
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 480759.99600000028,
+            "y": 6133210.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481019.99600000028,
+            "y": 6133489.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 481450,
+            "y": 6133700.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 468130.00100000016,
+            "y": 6155710.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 469389.99899999984,
+            "y": 6154240.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 469489.99700000044,
+            "y": 6154830.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 495219.98599999957,
+            "y": 6243840.0309999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 494370,
+            "y": 6243219.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 494340.03399999999,
+            "y": 6243049.9649999999
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 494340.00299999956,
+            "y": 6242979.9560000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 494500.00800000038,
+            "y": 6243540.0480000004
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 494380.02500000037,
+            "y": 6243320.0460000001
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 494180.00999999978,
+            "y": 6243410.0250000004
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 493950.00399999972,
+            "y": 6243750.0449999999
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 577619.99600000028,
+            "y": 6160420.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 578259.99700000044,
+            "y": 6160760.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 577299.99899999984,
+            "y": 6160580.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 578280.00200000033,
+            "y": 6160249.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 577669.99899999984,
+            "y": 6161310.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 577090.00299999956,
+            "y": 6160980
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 577439.99700000044,
+            "y": 6161389.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 578850.00399999972,
+            "y": 6160649.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 577080,
+            "y": 6160649.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 595509.99799999967,
+            "y": 6125779.9949999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 595110.00100000016,
+            "y": 6125469.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 595180,
+            "y": 6126319.9949999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 595230.00200000033,
+            "y": 6126349.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 595279.99700000044,
+            "y": 6125840.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 596800.00299999956,
+            "y": 6126649.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 595750.00200000033,
+            "y": 6124939.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 595239.99600000028,
+            "y": 6126409.9969999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 595089.99600000028,
+            "y": 6125679.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 596889.99799999967,
+            "y": 6125089.9959999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 595799.99600000028,
+            "y": 6125590.0040000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 595750.00200000033,
+            "y": 6125709.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 596730.00399999972,
+            "y": 6125850.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 596139.99700000044,
+            "y": 6125840.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 596710,
+            "y": 6125809.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 594960,
+            "y": 6125350.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 595809.99899999984,
+            "y": 6125990.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 595260.00100000016,
+            "y": 6125079.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 596619.99600000028,
+            "y": 6126399.9989999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 595940.00299999956,
+            "y": 6126140.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 596029.99799999967,
+            "y": 6125360.0010000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 595289.99899999984,
+            "y": 6126380.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 577320.00399999972,
+            "y": 6160380.0020000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 596439.99799999967,
+            "y": 6126280.0030000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 576849.99899999984,
+            "y": 6122340.0050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 575900.00399999972,
+            "y": 6121149.9979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 539204,
+            "y": 6145775
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 447918.84200000018,
+            "y": 6257551.5840000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 585721.27500000037,
+            "y": 6332886.0449999999
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 536119.58000000007,
+            "y": 6244836.0889999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 689150.05999999959,
+            "y": 6170238.5529999994
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 522038.88599999994,
+            "y": 6292301.4230000004
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 595525.27300000004,
+            "y": 6152437.2190000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 600487.05900000036,
+            "y": 6257424.966
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 599560.61099999957,
+            "y": 6182750.5050000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 446318.12100000028,
+            "y": 6247374.5600000005
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 447623.94900000002,
+            "y": 6255555.6699999999
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 580779.32500000019,
+            "y": 6379070.3019999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 448760.01499999966,
+            "y": 6245218.5449999999
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 482839.63599999994,
+            "y": 6290071.2679999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 664200.60800000001,
+            "y": 6178107.8420000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 451310.35099999979,
+            "y": 6225001.7009999994
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 563588.5120000001,
+            "y": 6110775.6679999996
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 593820.97400000039,
+            "y": 6245116.4529999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 728379.0700000003,
+            "y": 6166608.0549999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 726757.37000000011,
+            "y": 6162649.5690000001
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 724935.77400000021,
+            "y": 6158539.2670000009
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 698581.25600000005,
+            "y": 6212088.8369999994
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 693951.5700000003,
+            "y": 6211618.023
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 681360.84399999958,
+            "y": 6203648.3729999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 720614.29499999993,
+            "y": 6204178.4020000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 693865.65000000037,
+            "y": 6182737.5920000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 692146.82600000035,
+            "y": 6173412.8249999993
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 684944.625,
+            "y": 6169514.9189999998
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 690967.71700000018,
+            "y": 6174166.2329999991
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 694402.43300000019,
+            "y": 6177413.6160000004
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 698024.53000000026,
+            "y": 6168608.2339999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 691061.38100000005,
+            "y": 6177881.9829999991
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 680010.80800000019,
+            "y": 6173586.3230000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 701441.38800000027,
+            "y": 6179144.3719999995
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 687741.42700000014,
+            "y": 6143831.8080000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 620863.24600000028,
+            "y": 6170500.034
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 621401.26300000027,
+            "y": 6178929.8450000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 633021.72400000039,
+            "y": 6175102.7520000003
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 646984.15299999993,
+            "y": 6166281.3949999996
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 673631.39400000032,
+            "y": 6204038.4910000004
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 669908.13900000043,
+            "y": 6201272.0270000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 644340.42499999981,
+            "y": 6184551.6119999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 642810.27699999977,
+            "y": 6183963.0920000002
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 643791.14300000016,
+            "y": 6184002.3279999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 639239.8870000001,
+            "y": 6192712.3809999991
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 629197.64900000021,
+            "y": 6198556.4299999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 662321.05999999959,
+            "y": 6187679.2090000007
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 675609.67599999998,
+            "y": 6146533.7850000001
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 668749.90099999961,
+            "y": 6194059.523
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 677374.7089999998,
+            "y": 6136007.4979999997
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 645978.89400000032,
+            "y": 6144759.8949999996
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 646416.10400000028,
+            "y": 6118957.8269999996
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 632271.46100000013,
+            "y": 6087532.0199999996
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 664606.78699999955,
+            "y": 6079112.1449999996
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 668695.72300000023,
+            "y": 6080224.3460000008
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 669840.63200000022,
+            "y": 6086046.9890000001
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 669360.94900000002,
+            "y": 6071224.7420000006
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 684983.19000000041,
+            "y": 6048632.3359999992
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 707525.84399999958,
+            "y": 6122673.5449999999
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 670748.35500000045,
+            "y": 6119167.5460000001
+        }
+    }, {
+        "attributes": {
+            "Temanavn": "Artsfund, punkter"
+        },
+        "geometry": {
+            "x": 675602.82400000002,
+            "y": 6113323.6549999993
+        }
+    }],
+    "exceededTransferLimit": true
+}
