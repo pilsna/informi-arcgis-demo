@@ -6,8 +6,11 @@ define([
   'dojo/domReady!'
 ], function(Map, Geocoder, Measurement, Units) {
 
+<<<<<<< HEAD
   console.log(Backbone,_,$);
 
+=======
+>>>>>>> a7ad1644affc90b594920f9d1cc6b67001509d9f
   var map = new Map('map', {
     center: [-56.049, 38.485],
     zoom: 3,
