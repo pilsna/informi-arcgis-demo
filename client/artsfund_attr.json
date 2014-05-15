@@ -1,0 +1,1504 @@
+{
+ "displayFieldName": "Temanavn",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "Temakode": "Temakode",
+  "Temanavn": "Temanavn",
+  "Objekt_id": "Objekt_id",
+  "Version_id": "Version_id",
+  "Systid_fra": "Systid_fra",
+  "Systid_til": "Systid_til",
+  "Oprettet": "Oprettet",
+  "Oprindkode": "Oprindkode",
+  "Oprindelse": "Oprindelse",
+  "Statuskode": "Statuskode",
+  "Status": "Status",
+  "Off_kode": "Off_kode",
+  "Offentlig": "Offentlig",
+  "CVR_kode": "CVR_kode",
+  "CVR_navn": "CVR_navn",
+  "Link": "Link"
+ },
+ "geometryType": "esriGeometryPoint",
+ "spatialReference": {
+  "wkid": 25832,
+  "latestWkid": 25832,
+  "vcsWkid": 105701,
+  "latestVcsWkid": 5799
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "Temakode",
+   "type": "esriFieldTypeSmallInteger",
+   "alias": "Temakode"
+  },
+  {
+   "name": "Temanavn",
+   "type": "esriFieldTypeString",
+   "alias": "Temanavn",
+   "length": 128
+  },
+  {
+   "name": "Objekt_id",
+   "type": "esriFieldTypeGUID",
+   "alias": "Objekt_id",
+   "length": 38
+  },
+  {
+   "name": "Version_id",
+   "type": "esriFieldTypeGUID",
+   "alias": "Version_id",
+   "length": 38
+  },
+  {
+   "name": "Systid_fra",
+   "type": "esriFieldTypeDate",
+   "alias": "Systid_fra",
+   "length": 36
+  },
+  {
+   "name": "Systid_til",
+   "type": "esriFieldTypeDate",
+   "alias": "Systid_til",
+   "length": 36
+  },
+  {
+   "name": "Oprettet",
+   "type": "esriFieldTypeDate",
+   "alias": "Oprettet",
+   "length": 36
+  },
+  {
+   "name": "Oprindkode",
+   "type": "esriFieldTypeSmallInteger",
+   "alias": "Oprindkode"
+  },
+  {
+   "name": "Oprindelse",
+   "type": "esriFieldTypeString",
+   "alias": "Oprindelse",
+   "length": 30
+  },
+  {
+   "name": "Statuskode",
+   "type": "esriFieldTypeSmallInteger",
+   "alias": "Statuskode"
+  },
+  {
+   "name": "Status",
+   "type": "esriFieldTypeString",
+   "alias": "Status",
+   "length": 30
+  },
+  {
+   "name": "Off_kode",
+   "type": "esriFieldTypeSmallInteger",
+   "alias": "Off_kode"
+  },
+  {
+   "name": "Offentlig",
+   "type": "esriFieldTypeString",
+   "alias": "Offentlig",
+   "length": 60
+  },
+  {
+   "name": "CVR_kode",
+   "type": "esriFieldTypeInteger",
+   "alias": "CVR_kode"
+  },
+  {
+   "name": "CVR_navn",
+   "type": "esriFieldTypeString",
+   "alias": "CVR_navn",
+   "length": 128
+  },
+  {
+   "name": "Link",
+   "type": "esriFieldTypeString",
+   "alias": "Link",
+   "length": 1024
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 29,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06A7F80-5347-11E2-9B63-00155D01E765}",
+    "Version_id": "{66FFA3FC-4CAA-4095-A6FB-49694571FC65}",
+    "Systid_fra": 1243523019000,
+    "Systid_til": null,
+    "Oprettet": 1233927870000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 628739.56900000013,
+    "y": 6315021.3650000002
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 41,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06C0621-5347-11E2-94B4-00155D01E765}",
+    "Version_id": "{D89E828E-E8E4-4124-909A-78FB12D2A1B0}",
+    "Systid_fra": 1243523019000,
+    "Systid_til": null,
+    "Oprettet": 1241002646000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 570758.84499999974,
+    "y": 6200034.5130000003
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 43,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06AF4B0-5347-11E2-AF49-00155D01E765}",
+    "Version_id": "{D84CA897-2344-4A66-9283-C73001F20D27}",
+    "Systid_fra": 1243523019000,
+    "Systid_til": null,
+    "Oprettet": 1241005551000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 570943.53799999971,
+    "y": 6199863.7809999995
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 44,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06AF4B1-5347-11E2-AA8A-00155D01E765}",
+    "Version_id": "{27F2F50D-CB9B-41CA-B7F5-790921275171}",
+    "Systid_fra": 1243523019000,
+    "Systid_til": null,
+    "Oprettet": 1241084926000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 514785.50200000033,
+    "y": 6226630.3350000009
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 46,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06B1BC1-5347-11E2-B782-00155D01E765}",
+    "Version_id": "{EBB8D592-5FC9-47CB-8498-DBA41304C721}",
+    "Systid_fra": 1243523019000,
+    "Systid_til": null,
+    "Oprettet": 1242161272000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 524091.82799999975,
+    "y": 6223156.7819999997
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 47,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06C2D31-5347-11E2-92C3-00155D01E765}",
+    "Version_id": "{2ADCF1EC-DD26-4533-A19B-3BE86FBD5240}",
+    "Systid_fra": 1243523019000,
+    "Systid_til": null,
+    "Oprettet": 1242161307000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 524090.12999999989,
+    "y": 6223320.2630000003
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 48,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06B1BC3-5347-11E2-912F-00155D01E765}",
+    "Version_id": "{E395CF3B-E78D-4C4E-9E5E-8DD9575ED376}",
+    "Systid_fra": 1243523019000,
+    "Systid_til": null,
+    "Oprettet": 1242161309000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 524078.29200000037,
+    "y": 6223131.0759999994
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 49,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06B1BC4-5347-11E2-997A-00155D01E765}",
+    "Version_id": "{0EE78B40-C653-48AC-BBFF-5054D8777345}",
+    "Systid_fra": 1243523019000,
+    "Systid_til": null,
+    "Oprettet": 1242161313000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 524091.21100000013,
+    "y": 6223150
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 50,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06B42CF-5347-11E2-A4D2-00155D01E765}",
+    "Version_id": "{10D97F8D-F58E-4AB7-96C3-F4B209D7853D}",
+    "Systid_fra": 1243523019000,
+    "Systid_til": null,
+    "Oprettet": 1242161346000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 524090.30200000014,
+    "y": 6223147.8200000003
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 51,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06B42D0-5347-11E2-A0B7-00155D01E765}",
+    "Version_id": "{7590209B-25E0-4B66-983C-BFF5312A58D0}",
+    "Systid_fra": 1243523019000,
+    "Systid_til": null,
+    "Oprettet": 1242161351000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 524036.10099999979,
+    "y": 6223299.2459999993
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 52,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06B42D1-5347-11E2-A30D-00155D01E765}",
+    "Version_id": "{61BAF294-B069-4EC2-A054-7A311EA66242}",
+    "Systid_fra": 1243523019000,
+    "Systid_til": null,
+    "Oprettet": 1242161436000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 524091.66500000004,
+    "y": 6223299.0089999996
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 53,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06B42D2-5347-11E2-9549-00155D01E765}",
+    "Version_id": "{F5CA2541-8D06-4AFB-A057-0B08CECAA778}",
+    "Systid_fra": 1243523019000,
+    "Systid_til": null,
+    "Oprettet": 1242161558000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 524093.21800000034,
+    "y": 6223152.7400000002
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 54,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06B69DE-5347-11E2-90EB-00155D01E765}",
+    "Version_id": "{83336E11-BB94-4639-BFE9-8BA1E0DF8122}",
+    "Systid_fra": 1243523019000,
+    "Systid_til": null,
+    "Oprettet": 1242164013000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 524038.68400000036,
+    "y": 6223246.2420000006
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 58,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06C7B52-5347-11E2-AE82-00155D01E765}",
+    "Version_id": "{BB0FFADE-1950-4F60-A056-86912AA75AF3}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 596930,
+    "y": 6238340
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 59,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06CA261-5347-11E2-B242-00155D01E765}",
+    "Version_id": "{33700535-ADBC-4BA6-9C37-F4C5CB8BF12C}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 597270,
+    "y": 6237160
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 60,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06CA262-5347-11E2-B1FD-00155D01E765}",
+    "Version_id": "{1359C2DF-8624-40D2-95A0-6256AEC7E796}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 597290,
+    "y": 6237330
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 61,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06CA263-5347-11E2-AD0E-00155D01E765}",
+    "Version_id": "{5EA2555A-EF0D-4953-AC1D-3692DF4FC826}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 598690,
+    "y": 6238300
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 62,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06CA264-5347-11E2-82D5-00155D01E765}",
+    "Version_id": "{CF720E62-43C5-4C77-9B55-5DE0A186F1B1}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 597020,
+    "y": 6237930
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 63,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06CA265-5347-11E2-A131-00155D01E765}",
+    "Version_id": "{B86351DB-FAC8-466C-B5CD-F0B14E2E92CB}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 597090,
+    "y": 6237150
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 64,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06CC970-5347-11E2-8E8B-00155D01E765}",
+    "Version_id": "{FEFB662F-9557-4B0A-9D1E-85FCC181DA8A}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 597640,
+    "y": 6237140
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 65,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06CC971-5347-11E2-9F05-00155D01E765}",
+    "Version_id": "{DD680D21-6C16-41E7-BAA4-C8AC4DA2CAEC}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 597670,
+    "y": 6237810
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 66,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06CC972-5347-11E2-BF46-00155D01E765}",
+    "Version_id": "{8C525FDD-7D44-4F60-B8E2-0AC20D8866D9}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 597000,
+    "y": 6237970
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 67,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06CC973-5347-11E2-A811-00155D01E765}",
+    "Version_id": "{1D5E3AD0-7C08-4FDA-A0EB-2416D10BEE1D}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 598210,
+    "y": 6238650
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 68,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06CC974-5347-11E2-9407-00155D01E765}",
+    "Version_id": "{9413734F-C54B-4B81-B2F7-F3B095844FA8}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 598330,
+    "y": 6238290
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 69,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06CF080-5347-11E2-ABA4-00155D01E765}",
+    "Version_id": "{39B754C6-469B-4221-BBDA-9741668A10E2}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 598500,
+    "y": 6238340
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 70,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06CF081-5347-11E2-855A-00155D01E765}",
+    "Version_id": "{034A6204-5864-498E-8675-7EEA10C59785}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 597100,
+    "y": 6237270
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 71,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06CF082-5347-11E2-862C-00155D01E765}",
+    "Version_id": "{0112D394-2D68-433F-BAFF-981AE9D5D418}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 597510,
+    "y": 6237810
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 72,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06D1791-5347-11E2-9005-00155D01E765}",
+    "Version_id": "{5E2BCD65-3314-4160-A0C7-645204A9072E}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 597540,
+    "y": 6237670
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 73,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06D1792-5347-11E2-8F9E-00155D01E765}",
+    "Version_id": "{26D64D11-9788-48C6-AE7B-C003848A23B6}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 598330,
+    "y": 6238680
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 74,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06D1793-5347-11E2-88A0-00155D01E765}",
+    "Version_id": "{11F724B8-2DC1-469C-A9A9-343A9F607E74}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 597300,
+    "y": 6238780
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 75,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06D1794-5347-11E2-ACAD-00155D01E765}",
+    "Version_id": "{493C3280-A75F-4247-8169-6046F7EC8642}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 597500,
+    "y": 6237440
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 76,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06D1795-5347-11E2-BDAE-00155D01E765}",
+    "Version_id": "{248E8681-F47D-488E-9345-3A325101D5D6}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 597800,
+    "y": 6238020
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 77,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06D3EA1-5347-11E2-8770-00155D01E765}",
+    "Version_id": "{2A3FC081-A68E-4B0C-926E-279407E94A4F}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 598350,
+    "y": 6237330
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 78,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06D3EA2-5347-11E2-8D32-00155D01E765}",
+    "Version_id": "{55539887-FDD4-4EC0-A191-64E1BB9C9BAB}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 597800,
+    "y": 6237040
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 79,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06D3EA3-5347-11E2-A031-00155D01E765}",
+    "Version_id": "{E44102E2-DE92-4155-9F64-C8200B867996}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 597990,
+    "y": 6237460
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 80,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06D3EA4-5347-11E2-B368-00155D01E765}",
+    "Version_id": "{5F036C78-96D1-4D41-880C-D287D4377322}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 598480,
+    "y": 6237950
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 81,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06D65B0-5347-11E2-B5DF-00155D01E765}",
+    "Version_id": "{373341BE-6B51-4104-AB31-ED15146ECDA4}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 598520,
+    "y": 6237620
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 82,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06D65B1-5347-11E2-BB6A-00155D01E765}",
+    "Version_id": "{3E127708-547B-41BB-8D3E-46045CF009D7}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 598820,
+    "y": 6238730
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 83,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06D65B2-5347-11E2-ABC3-00155D01E765}",
+    "Version_id": "{489E8155-A651-40B2-95B4-0E9C26ACD98A}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 597520,
+    "y": 6238700
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 84,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06D65B3-5347-11E2-AD45-00155D01E765}",
+    "Version_id": "{E795FE80-F2E1-403B-BEE4-31368BF6083E}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 597640,
+    "y": 6237080
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 85,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06D65B4-5347-11E2-A202-00155D01E765}",
+    "Version_id": "{F2584926-8371-428A-8B42-1F16C6466780}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 598180,
+    "y": 6237080
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 86,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06D8CC0-5347-11E2-9FAB-00155D01E765}",
+    "Version_id": "{ADA8403C-EF12-4BCF-A2DA-016476476082}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 598650,
+    "y": 6237660
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 87,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06D8CC1-5347-11E2-9927-00155D01E765}",
+    "Version_id": "{E08E799E-97DC-4A80-80C3-E4391AE36FB7}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 598690,
+    "y": 6237520
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 88,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06D8CC2-5347-11E2-8F72-00155D01E765}",
+    "Version_id": "{5E257594-99F6-4F1E-A8F6-8557ED3E1CDC}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 598730,
+    "y": 6237420
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 89,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06D8CC3-5347-11E2-84A0-00155D01E765}",
+    "Version_id": "{2972C4CE-86B9-4454-9C4E-E2EC46A43607}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 597150,
+    "y": 6238310
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 90,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06D8CC4-5347-11E2-9E69-00155D01E765}",
+    "Version_id": "{A6C1AE01-6935-49C3-B5A9-CF9EED222CB6}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 597520,
+    "y": 6238230
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 91,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06D8CC5-5347-11E2-B452-00155D01E765}",
+    "Version_id": "{29F1BE79-B9B8-4B84-A86C-574141B1701C}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 598320,
+    "y": 6237410
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 92,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06D8CC6-5347-11E2-9344-00155D01E765}",
+    "Version_id": "{DD5DC4D9-70F5-4985-AE1F-BBD49DE87421}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 597520,
+    "y": 6238610
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 93,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06D8CC7-5347-11E2-B874-00155D01E765}",
+    "Version_id": "{14815F0D-644E-42B3-9EA2-D7E126760870}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 598580,
+    "y": 6237770
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 94,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06D8CC8-5347-11E2-9A69-00155D01E765}",
+    "Version_id": "{6E2C2816-2291-4758-B66B-9F4E53D820E3}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 598690,
+    "y": 6238360
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 95,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06DB3CF-5347-11E2-898E-00155D01E765}",
+    "Version_id": "{244C17ED-C6A1-46E0-9EC1-90D31CAF5AE6}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 598760,
+    "y": 6238270
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 96,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06DB3D0-5347-11E2-B3DD-00155D01E765}",
+    "Version_id": "{F9DC5F1C-7778-4752-8D6E-8CC7F485EF31}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 597880,
+    "y": 6236830
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 97,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06DB3D1-5347-11E2-B2E4-00155D01E765}",
+    "Version_id": "{0F33CECA-E357-41D3-8D8A-3CC542D2351F}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 598630,
+    "y": 6236940
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 98,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06DB3D2-5347-11E2-9113-00155D01E765}",
+    "Version_id": "{05A63143-EC52-4761-92D2-2054DA9FE99A}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 597590,
+    "y": 6237930
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 99,
+    "Temakode": 2036,
+    "Temanavn": "Artsfund, punkter",
+    "Objekt_id": "{D06DB3D3-5347-11E2-92EB-00155D01E765}",
+    "Version_id": "{4D46DF6C-0056-4FCA-9023-1C8273C1F8ED}",
+    "Systid_fra": 1243596133000,
+    "Systid_til": null,
+    "Oprettet": 1243596133000,
+    "Oprindkode": 0,
+    "Oprindelse": "Ikke udfyldt",
+    "Statuskode": 3,
+    "Status": "Gældende / Vedtaget",
+    "Off_kode": 1,
+    "Offentlig": "Synlig for alle",
+    "CVR_kode": 10859387,
+    "CVR_navn": "Danmarks Miljøundersøgelser",
+    "Link": null
+   },
+   "geometry": {
+    "x": 597710,
+    "y": 6237870
+   }
+  }
+ ]
+}
